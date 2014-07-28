@@ -8,11 +8,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>no p</title>
+    <title>Bopo</title>
   </head>
   <body>
-       hello hua！
-        bobo!d
-        ahahahahahahahhah
   </body>
 </html>
